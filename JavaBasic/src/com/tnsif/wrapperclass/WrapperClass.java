@@ -1,6 +1,7 @@
 package com.tnsif.wrapperclass;
 
-public class WrapperClassProgram {
+public class WrapperClass {
+
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			
@@ -20,5 +21,5 @@ public class WrapperClassProgram {
 
 		}
 
-	}
+}
 
